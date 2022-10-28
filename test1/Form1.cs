@@ -19,7 +19,7 @@ namespace test1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola amigoooooooooooos");
+            MessageBox.Show("Hola amigoooooooooooosaqulla");
         }
     }
 }
